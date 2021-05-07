@@ -49,3 +49,11 @@ grid-template-columns: 1fr 1fr 1fr;
 ul{
 	margin-bottom:20px;
 }
+.img_modal{
+	margin:auto;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+.modal-body{
+	text-align:center;
+}
